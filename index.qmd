@@ -1,0 +1,7 @@
+---
+title: "NYHAIS"
+---
+
+This is a Quarto website for New York Health Artificial Intelligence Society.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>. Guide used for this site at <https://quarto.org/docs/websites/> and <https://quarto.org/docs/publishing/github-pages.html>
